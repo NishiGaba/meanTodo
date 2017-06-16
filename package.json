@@ -1,0 +1,14 @@
+{
+  "name": "meantodo",
+  "version": "1.0.0",
+  "description": "Todo Application Developed in MEAN Stack",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NishiGaba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.15.3"
+  }
+}
