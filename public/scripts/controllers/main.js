@@ -1,5 +1,6 @@
 'use strict';
 
+//Angular is creating a New Module called todoListApp :)
 angular.module('todoListApp')
 .controller('mainCtrl', function($scope, dataService){
   
