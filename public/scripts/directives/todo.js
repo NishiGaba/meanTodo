@@ -1,5 +1,6 @@
 'use strict';
 
+//Custom Directive JS
 angular.module('todoListApp')
 .directive('todo', function(){
   return {
